@@ -1,0 +1,2 @@
+# STC
+A digital university.
